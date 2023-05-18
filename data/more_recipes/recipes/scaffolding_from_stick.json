@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "s#s",
+      "s s",
+      "s s"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:string"
+      },
+      "s": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "minecraft:scaffolding",
+      "count": 6
+    }
+  }

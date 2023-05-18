@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "shs",
+      "h h",
+      "hhh"
+    ],
+    "key": {
+      "s": {
+        "item": "minecraft:string"
+      },
+      "h": {
+        "item": "minecraft:leather"
+      }
+    },
+    "result": {
+      "item": "minecraft:bundle"
+    }
+  }

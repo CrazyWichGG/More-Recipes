@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 8,
+		"description": "§7V 1.0 (Java 1.17+)\n\n§fUseful recipes for minecraft survival that will make almost every items not useless anymore. Added 70+ recipes to your game with function to get all custom recipes.\n\n§a§lHow to get recipes?\n§r§fDo §7/function more_recipes:get §fto get all custom recipes.\nDo §7/function more_recipes:getall §fto get all minecraft recipes.\n\n§aMade by CrazyWichGG"
+	}
+}
